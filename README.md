@@ -1,4 +1,4 @@
-# Data Exploration and Preprocessing
+# Netflix EDA
 
 Data exploration and preprocessing on Netflix Dataset
 
