@@ -2,7 +2,7 @@
 
 Data exploration and preprocessing on Netflix Dataset
 
-#### Libraries ####
+#### Libraries needed 
 * Pandas
 * Numpy 
 * Matplotlib
@@ -10,12 +10,12 @@ Data exploration and preprocessing on Netflix Dataset
 
 <hr>
 
-We use the dataset 'Netflix titles'
+In this notebook we use the dataset *'Netflix titles'* available at this [link](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
-**About Dataset**
+#### About Dataset
 
 This dataset contains Unlabelled text data of around 9000 Netflix Shows and Movies along with Full details like Cast, Release Year, Rating, Description, etc.
-<br>
+<br><br>
 Columns of dataset:
 * **`show_id`** Unique ID for every Movie / Tv Show
 * **`type`** Identifier a Movie or TV Show
